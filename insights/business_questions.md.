@@ -5,7 +5,7 @@ Todas as métricas consideram apenas **pedidos válidos** (`status <> 'canceled'
 
 ---
 
-## Q1 — Qual foi a receita líquida por mês?
+## Q1 — Qual foi a receita líquida por mês? 
 
 ```sql
 SELECT * FROM `analytics-project-499319.ze_delivery_project.stg_q1_net_revenue_by_month`;
