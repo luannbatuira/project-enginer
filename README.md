@@ -135,7 +135,7 @@ Execute `queries/staging/ddl_staging_views.sql` e `queries/trusted/ddl_trusted_v
 
 ## 🔍 Questões de Negócio
 
-As respostas detalhadas com queries e resultados estão em [`business_questions.md`](business_questions.md).
+As respostas detalhadas com queries e resultados estão em [`insights/business_questions.md`](insights/business_questions.md).
 
 ---
 
